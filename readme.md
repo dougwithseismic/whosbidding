@@ -1,4 +1,4 @@
-# Method: Searched Google.co.uk for [BRAND] + Discount Code terms using a pool of UK proxies and collected details from the entire page.
+# Method: Searched Google.co.uk for [BRAND] + Discount Code terms using a pool of UK proxies and collected PPC Ads details from the entire page.
 Raw Data: https://github.com/dougwithseismic/whosbidding/blob/main/dataset_03102020_2100.json?raw=true     Warning: Raw data is 12mb 
 This is by no means an exhaustive list of bidding landscape in the UK, nor is it proof of any wrongdoing; just demoing the ability to map specific brand bidding actions to their respective publisher sites.
 
@@ -7,8 +7,7 @@ More to come.
 
 Contact: https://linkedin.com/in/dougsilkstone
 
-## Results: 03.10.2020 - Google.co.uk - Desktop Traffic. 21:00 GMT+1
-
+## Results: 03.10.2020 - Google.co.uk - Desktop Traffic. 21:00 GMT+1 - Publishers bidding on "brand + discount code" terms
 
 # Publisher #1
 * aa breakdown cover
