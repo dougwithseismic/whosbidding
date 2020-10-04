@@ -184,27 +184,27 @@ Publisher #3
 * vodafone
 
 Publisher #4
-*11 degrees
-*american golf
-*chiltern railways
-*christmas trees and lights
-*cotton traders
-*create and craft
-*dents
-*direct cosmetics
-*elemis
-*forever unique
-*golf online
-*ideal world
-*mainline menswear
-*mister spex
-*online golf
-*shein
-*ski lifts
-*spaseekers
-*sunglasses shop
-*the shaving shack
-*theatre tickets direct
+* 11 degrees
+* american golf
+* chiltern railways
+* christmas trees and lights
+* cotton traders
+* create and craft
+* dents
+* direct cosmetics
+* elemis
+* forever unique
+* golf online
+* ideal world
+* mainline menswear
+* mister spex
+* online golf
+* shein
+* ski lifts
+* spaseekers
+* sunglasses shop
+* the shaving shack
+* theatre tickets direct
 
 
 Publisher #5
