@@ -2,7 +2,7 @@
 Raw Data: https://github.com/dougwithseismic/whosbidding/blob/main/dataset_03102020_2100.json?raw=true     Warning: Raw data is 12mb 
 This is by no means an exhaustive list of bidding landscape in the UK, nor is it proof of any wrongdoing; just demoing the ability to map specific brand bidding actions to their respective publisher sites.
 
-This is a multi-faceted issue that's been done to death but still rampant. I'm just looking at how to make this data as accessible as possible so others can act on it.
+This is a multi-faceted issue that's been done to death but still rampant. I'm just looking at how to make this data as accessible as possible so others can act on it. 
 More to come.
 
 Contact: https://linkedin.com/in/dougsilkstone
