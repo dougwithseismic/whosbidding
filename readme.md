@@ -411,14 +411,4 @@ Publisher #5
 * my 1st years
 
 
-# Project Background
- My background is in PPC and performance marketing, my hobbies lie in fullstack development and automation. I'm a huge advocate for using tech and automation to find competitive advantages, cut corners and develop products to save others from dull repetitive tasks. 
- 
-The marriage of Paid Media and Fullstack Development really started during my time at a popular voucher publisher; managing international PPC and taking it on myself to build out tools to do more with less effort. Big up, LazyBoiler. It's also where I picked up my knowledge of voucher publishing traffic albeit slightly dated now (this was a couple years back.).
 
-Back to the task at hand: In the voucher space, it's pretty easy to determine whether there's any revenue to be had on a brands BPV terms - we're in performance marketing after all. If publishers are bidding on terms for a prolonged period of time, an educated guess would suggest that it's a revenue driver. My initial plan was to accurately map the Brand + Voucher bidding landscape across UK, Ireland, the rest of Europe USA and Australia and augment that data with search volumes and brand popularity so I'd know which programmes to secure for rapid growth, and build out my own voucher site.
-
-So I made it happen. And it worked pretty well - Enough for me to do trade alarm clocks and time sheets for full-time entrepreneurship. 
-Then I started seeing a pattern I'd not seen since back in 2016. Crawling during the evening would pick up far more bidding activity than during the day; but when I approached brands to join those programmes, they were adamant that I'd not be allowed to join the SERPs. 
-
-Why? We know why.
