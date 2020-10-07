@@ -1,9 +1,9 @@
-# Method: Searched Google.co.uk for [BRAND] + Discount Code terms using a pool of UK proxies and collected PPC Ads details from the entire page.
+# Are Voucher Publishers, Networks and Brands engaged in anti-competitive behaviour and breaches of T&Cs? 
+I searched Google.co.uk for [BRAND] + Discount Code terms using a pool of UK proxies and collected PPC Ads details
 Raw Data: https://github.com/dougwithseismic/whosbidding/blob/main/dataset_03102020_2100.json?raw=true     Warning: Raw data is 12mb 
 This is by no means an exhaustive list of bidding landscape in the UK, nor is it proof of any wrongdoing; just demoing the ability to map specific brand bidding actions to their respective publisher sites.
 
-This is a multi-faceted issue that's been done to death but still rampant. I'm just looking at how to make this data as accessible as possible so others can act on it. 
-More to come.
+Brand bidding against terms and conditions of affiliate problems is a multi-faceted issue that's been done to death but still rampant. I'm just looking at how to make this data as accessible as possible so others can act on it. If you have anecdotal evidence of voucher publishers flouting terms and conditions, drop me a line.
 
 Contact: https://linkedin.com/in/dougsilkstone
 
